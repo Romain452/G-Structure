@@ -10,7 +10,7 @@ Voici les différentes images du script !
 
 UTILISATION
 
-1. télécharger le fichier G-Strcutre.rar.
+1. télécharger le fichier G-Structure.rar.
 
 2. Extraire le G-Structure.exe.
 
