@@ -22,4 +22,4 @@ SUPPORT
 
 Le support se fait UNIQUEMENT sur Discord
 Je vous répondrai le plus vite possible (sans doutes dans les 12h).
-mon discord : roomainn
+mon discord : roomainn.
