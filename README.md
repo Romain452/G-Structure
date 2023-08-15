@@ -1,6 +1,6 @@
 # G-Structure
 
-PRÉSENTATION
+# PRÉSENTATION
 
 Ce script permet de structurer vos fichiers en créant automatiquement la base d'un addon, avec le loader pré configuré !
 
@@ -8,7 +8,7 @@ IMAGES
 
 Voici les différentes images du script !
 
-UTILISATION
+# UTILISATION
 
 1. télécharger le fichier G-Structure.rar.
 
@@ -18,7 +18,7 @@ UTILISATION
 
 4. Glisser le fichier G-Structure.exe dans le dossier G-structure.
 
-SUPPORT
+# SUPPORT
 
 Le support se fait UNIQUEMENT sur Discord
 Je vous répondrai le plus vite possible (sans doutes dans les 12h).
